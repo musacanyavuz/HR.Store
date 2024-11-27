@@ -1,0 +1,275 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/musac/Documents/GitHub/HR.Store/WebUI/WebUI.csproj": {}
+  },
+  "projects": {
+    "/Users/musac/Documents/GitHub/HR.Store/src/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/musac/Documents/GitHub/HR.Store/src/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/musac/Documents/GitHub/HR.Store/src/Application/Application.csproj",
+        "packagesPath": "/Users/musac/.nuget/packages/",
+        "outputPath": "/Users/musac/Documents/GitHub/HR.Store/src/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/musac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.abp.io": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/musac/Documents/GitHub/HR.Store/src/Domain/Domain.csproj": {
+                "projectPath": "/Users/musac/Documents/GitHub/HR.Store/src/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/musac/Documents/GitHub/HR.Store/src/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/musac/Documents/GitHub/HR.Store/src/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/musac/Documents/GitHub/HR.Store/src/Domain/Domain.csproj",
+        "packagesPath": "/Users/musac/.nuget/packages/",
+        "outputPath": "/Users/musac/Documents/GitHub/HR.Store/src/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/musac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.abp.io": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/musac/Documents/GitHub/HR.Store/src/Infrastructure/Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/musac/Documents/GitHub/HR.Store/src/Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/Users/musac/Documents/GitHub/HR.Store/src/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/Users/musac/.nuget/packages/",
+        "outputPath": "/Users/musac/Documents/GitHub/HR.Store/src/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/musac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.abp.io": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/musac/Documents/GitHub/HR.Store/src/Application/Application.csproj": {
+                "projectPath": "/Users/musac/Documents/GitHub/HR.Store/src/Application/Application.csproj"
+              },
+              "/Users/musac/Documents/GitHub/HR.Store/src/Domain/Domain.csproj": {
+                "projectPath": "/Users/musac/Documents/GitHub/HR.Store/src/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/musac/Documents/GitHub/HR.Store/WebUI/WebUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/musac/Documents/GitHub/HR.Store/WebUI/WebUI.csproj",
+        "projectName": "WebUI",
+        "projectPath": "/Users/musac/Documents/GitHub/HR.Store/WebUI/WebUI.csproj",
+        "packagesPath": "/Users/musac/.nuget/packages/",
+        "outputPath": "/Users/musac/Documents/GitHub/HR.Store/WebUI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/musac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.abp.io": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/musac/Documents/GitHub/HR.Store/src/Domain/Domain.csproj": {
+                "projectPath": "/Users/musac/Documents/GitHub/HR.Store/src/Domain/Domain.csproj"
+              },
+              "/Users/musac/Documents/GitHub/HR.Store/src/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/musac/Documents/GitHub/HR.Store/src/Infrastructure/Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "FontAwesome": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "bootstrap": {
+              "target": "Package",
+              "version": "[5.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

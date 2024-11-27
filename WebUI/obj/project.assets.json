@@ -421,11 +421,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/musac/Documents/GitHub/HR.Store/HR.Store.WebUI/HR.Store.WebUI.csproj",
-      "projectName": "HR.Store.WebUI",
-      "projectPath": "/Users/musac/Documents/GitHub/HR.Store/HR.Store.WebUI/HR.Store.WebUI.csproj",
+      "projectUniqueName": "/Users/musac/Documents/GitHub/HR.Store/WebUI/WebUI.csproj",
+      "projectName": "WebUI",
+      "projectPath": "/Users/musac/Documents/GitHub/HR.Store/WebUI/WebUI.csproj",
       "packagesPath": "/Users/musac/.nuget/packages/",
-      "outputPath": "/Users/musac/Documents/GitHub/HR.Store/HR.Store.WebUI/obj/",
+      "outputPath": "/Users/musac/Documents/GitHub/HR.Store/WebUI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/musac/.nuget/NuGet/NuGet.Config"

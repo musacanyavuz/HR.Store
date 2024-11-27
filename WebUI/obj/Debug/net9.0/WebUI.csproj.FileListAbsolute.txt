@@ -1,0 +1,9 @@
+/Users/musac/Documents/GitHub/HR.Store/WebUI/obj/Debug/net9.0/WebUI.csproj.AssemblyReference.cache
+/Users/musac/Documents/GitHub/HR.Store/WebUI/obj/Debug/net9.0/WebUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/musac/Documents/GitHub/HR.Store/WebUI/obj/Debug/net9.0/WebUI.AssemblyInfoInputs.cache
+/Users/musac/Documents/GitHub/HR.Store/WebUI/obj/Debug/net9.0/WebUI.AssemblyInfo.cs
+/Users/musac/Documents/GitHub/HR.Store/WebUI/obj/Debug/net9.0/WebUI.csproj.CoreCompileInputs.cache
+/Users/musac/Documents/GitHub/HR.Store/WebUI/obj/Debug/net9.0/WebUI.MvcApplicationPartsAssemblyInfo.cache
+/Users/musac/Documents/GitHub/HR.Store/WebUI/obj/Debug/net9.0/WebUI.RazorAssemblyInfo.cache
+/Users/musac/Documents/GitHub/HR.Store/WebUI/obj/Debug/net9.0/WebUI.RazorAssemblyInfo.cs
+/Users/musac/Documents/GitHub/HR.Store/WebUI/obj/Debug/net9.0/WebUI.sourcelink.json
