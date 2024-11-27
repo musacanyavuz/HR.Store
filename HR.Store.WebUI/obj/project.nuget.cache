@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7sBGm70MGhg=",
+  "success": true,
+  "projectFilePath": "/Users/musac/Documents/GitHub/HR.Store/HR.Store.WebUI/HR.Store.WebUI.csproj",
+  "expectedPackageFiles": [
+    "/Users/musac/.nuget/packages/bootstrap/5.3.3/bootstrap.5.3.3.nupkg.sha512",
+    "/Users/musac/.nuget/packages/fontawesome/4.7.0/fontawesome.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

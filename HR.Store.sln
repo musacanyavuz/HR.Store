@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6886BC68-E750-46C2-B1C6-6735DE13A210}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.Store.WebUI", "HR.Store.WebUI\HR.Store.WebUI.csproj", "{60E0A2D0-0160-4486-B8DE-5F66A8889571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{60E0A2D0-0160-4486-B8DE-5F66A8889571} = {6886BC68-E750-46C2-B1C6-6735DE13A210}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60E0A2D0-0160-4486-B8DE-5F66A8889571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E0A2D0-0160-4486-B8DE-5F66A8889571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E0A2D0-0160-4486-B8DE-5F66A8889571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E0A2D0-0160-4486-B8DE-5F66A8889571}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

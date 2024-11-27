@@ -1,0 +1,6 @@
+﻿services:
+  hr.store.webapp:
+    image: hr.store.webapp
+    build:
+      context: .
+      dockerfile: src/HR.Store.WebApp/Dockerfile
