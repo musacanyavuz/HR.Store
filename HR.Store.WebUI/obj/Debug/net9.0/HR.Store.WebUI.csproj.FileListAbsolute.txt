@@ -2201,3 +2201,11 @@
 /Users/musac/Documents/GitHub/HR.Store/HR.Store.WebUI/obj/Debug/net9.0/HR.Store.WebUI.pdb
 /Users/musac/Documents/GitHub/HR.Store/HR.Store.WebUI/obj/Debug/net9.0/HR.Store.WebUI.genruntimeconfig.cache
 /Users/musac/Documents/GitHub/HR.Store/HR.Store.WebUI/obj/Debug/net9.0/ref/HR.Store.WebUI.dll
+/Users/musac/Documents/GitHub/HR.Store/HR.Store.WebUI/bin/Debug/net9.0/Application.dll
+/Users/musac/Documents/GitHub/HR.Store/HR.Store.WebUI/bin/Debug/net9.0/Domain.dll
+/Users/musac/Documents/GitHub/HR.Store/HR.Store.WebUI/bin/Debug/net9.0/Infrastructure.dll
+/Users/musac/Documents/GitHub/HR.Store/HR.Store.WebUI/bin/Debug/net9.0/Domain.pdb
+/Users/musac/Documents/GitHub/HR.Store/HR.Store.WebUI/bin/Debug/net9.0/Infrastructure.pdb
+/Users/musac/Documents/GitHub/HR.Store/HR.Store.WebUI/bin/Debug/net9.0/Application.pdb
+/Users/musac/Documents/GitHub/HR.Store/HR.Store.WebUI/obj/Debug/net9.0/HR.Store.WebUI.csproj.AssemblyReference.cache
+/Users/musac/Documents/GitHub/HR.Store/HR.Store.WebUI/obj/Debug/net9.0/HR.Store.D9671BB3.Up2Date

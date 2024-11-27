@@ -11,4 +11,9 @@
       <PackageReference Include="FontAwesome" Version="4.7.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\src\Domain\Domain.csproj" />
+      <ProjectReference Include="..\src\Infrastructure\Infrastructure.csproj" />
+    </ItemGroup>
+
 </Project>

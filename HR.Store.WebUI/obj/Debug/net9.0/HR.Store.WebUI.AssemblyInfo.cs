@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HR.Store.WebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1307e0521c27a13c6c04fea1d6c6d79000739a60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ec22db05746f4d3826d8d7e1eda9192afcb9073")]
 [assembly: System.Reflection.AssemblyProductAttribute("HR.Store.WebUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HR.Store.WebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
